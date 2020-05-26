@@ -14,21 +14,21 @@ else:
         print('you got 10 points')
         
 #3.3
-favorite_fruits =['apple','watermelon''banana']
+favorite_fruits =['apple','watermelon','banana']
 if 'watermelon' in favorite_fruits:
-    print('you really like watermelon')
+    print('thats my favorite too!')
     
 if 'apple' in favorite_fruits: 
-    print('you really like apple')
+    print('these are pretty good ')
     
 if 'grape' in favorite_fruits:
-    print('you really like grape')
+    print('eh, theyre alright')
     
 if 'banana' in favorite_fruits:
-    print('you really like banana')
+    print('good for smoothies')
     
 if 'cherry' in favorite_fruits:
-    print('you really like cherry')
+    print('gross!')
     
 #3.4
 age = 25
